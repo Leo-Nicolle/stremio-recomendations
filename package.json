@@ -1,0 +1,24 @@
+{
+  "name": "stremio-recomendations",
+  "version": "1.0.0",
+  "description": "A stremio addon to provide recomendations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leo-Nicolle/stremio-recomendations.git"
+  },
+  "keywords": [
+    "stremio",
+    "themoviedb",
+    "recomendation"
+  ],
+  "author": "Leo Nicolle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leo-Nicolle/stremio-recomendations/issues"
+  },
+  "homepage": "https://github.com/Leo-Nicolle/stremio-recomendations#readme"
+}
